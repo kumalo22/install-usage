@@ -1,6 +1,6 @@
-# install-usage
+
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/1wk3imL.jpg" alt="osTicket logo"/>
 </p>
 
 <h1>VPN - Installation and Usage</h1>
