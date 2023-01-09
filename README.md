@@ -30,7 +30,9 @@ This tutorial outlines the install and usage of a Virtual Private Network.<br />
 <h2>Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/wIWquT0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Tt5XdQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tHauoaH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9EhRjco.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create Virtual Machine in Azure
@@ -42,3 +44,23 @@ Create Virtual Machine in Azure
      i. Log into the VM with Remote Desktop
    
     ii. Browse to https://whatismyipaddress.com/ and take note of this in a text file
+    
+    
+    <p>
+<img src="https://i.imgur.com/oR1xitf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/17S6nXY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xIfwNf3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vGPxdm2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Sign up for ProtonVPN and test the VPN connection
+
+- On your actual computer, sign up for the free version of Proton VPN 
+- Back within your VM, download the Proton VPN client
+
+  i. Login to the VPN and choose a VPN server in yet another country (such as Japan)
+  
+  ii. Browse to https://whatismyipaddress.com/  and take note of this in a text file
+  
+ - Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
+
