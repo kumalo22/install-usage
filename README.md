@@ -22,13 +22,10 @@ This tutorial outlines the install and usage of a Virtual Private Network.<br />
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Intallation and Usage Objectives</h2>
 
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Allow anyone to create tickets
-- Allow anyone to create tickets
+- Create Virtual Machine in Azure
+- Sign up for ProtonVPN and test the VPN connection
 
 <h2>Steps</h2>
 
@@ -36,4 +33,12 @@ This tutorial outlines the install and usage of a Virtual Private Network.<br />
 <img src="https://i.imgur.com/wIWquT0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Roles
+Create Virtual Machine in Azure
+  
+  - Browse to https://whatismyipaddress.com/ and take note of this in a text file
+  - Create a Resource Group
+  - Create a Windows 10 Virtual Machine in another geographic location (try a different country)
+    
+     i. Log into the VM with Remote Desktop
+   
+    ii. Browse to https://whatismyipaddress.com/ and take note of this in a text file
