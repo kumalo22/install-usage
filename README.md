@@ -28,3 +28,11 @@ This tutorial outlines the install and usage of a Virtual Private Network.<br />
 - Configure Teams
 - Allow anyone to create tickets
 - Allow anyone to create tickets
+
+<h2>Steps</h2>
+
+<p>
+<img src="https://i.imgur.com/wIWquT0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Roles
