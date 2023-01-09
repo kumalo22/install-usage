@@ -16,6 +16,7 @@ This tutorial outlines the install and usage of a Virtual Private Network.<br />
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
