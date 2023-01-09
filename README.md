@@ -22,3 +22,9 @@ This tutorial outlines the install and usage of a Virtual Private Network.<br />
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Allow anyone to create tickets
+- Allow anyone to create tickets
